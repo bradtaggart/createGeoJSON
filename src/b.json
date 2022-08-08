@@ -1,0 +1,861 @@
+{
+  "statuscode": 200,
+  "statustext": "OK",
+  "headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,X-Amz-Date,Authorization,X-Api-Key,x-requested-with,Accept"
+  },
+  "body": [
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"t 39,40\",\"freeformdescription\":\"\",\"legalid\":\"c47e83a7-7388-4a1b-8ca9-3e0c2fa634fa\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"39\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"40\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "c47e83a7-7388-4a1b-8ca9-3e0c2fa634fa",
+      "ResponseGeometry": "{\"rings\":[[[-109.05460883199999,41.200995807000027],[-109.05583399299996,41.200995532000036],[-109.05582844199995,41.20461984700006],[-109.05582666699996,41.205776193000077],[-109.05582175199999,41.208244163000074],[-109.05581456099998,41.211866533000034],[-109.05581228599999,41.213019656000029],[-109.05462306999999,41.213019376000034],[-109.05101592099999,41.21301845000005],[-109.05101830799998,41.211871021000036],[-109.05102583099995,41.208248568000045],[-109.05103096799996,41.205775293000045],[-109.05103229899998,41.204624503000048],[-109.05103643299998,41.200998272000049],[-109.05460883199999,41.200995807000027]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"t 39,40\",\"freeformdescription\":\"\",\"legalid\":\"c47e83a7-7388-4a1b-8ca9-3e0c2fa634fa\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"39\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"40\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "c47e83a7-7388-4a1b-8ca9-3e0c2fa634fa",
+          "ResponseGeometry": "{\"rings\":[[[-109.05460883199999,41.200995807000027],[-109.05583399299996,41.200995532000036],[-109.05582844199995,41.20461984700006],[-109.05582666699996,41.205776193000077],[-109.05461447699997,41.205775967000079],[-109.05103096799996,41.205775293000045],[-109.05103229899998,41.204624503000048],[-109.05103643299998,41.200998272000049],[-109.05460883199999,41.200995807000027]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"t 39,40\",\"freeformdescription\":\"\",\"legalid\":\"c47e83a7-7388-4a1b-8ca9-3e0c2fa634fa\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"39\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"40\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "c47e83a7-7388-4a1b-8ca9-3e0c2fa634fa",
+          "ResponseGeometry": "{\"rings\":[[[-109.05102583099995,41.208248568000045],[-109.05103096799996,41.205775293000045],[-109.05461447699997,41.205775967000079],[-109.05582666699996,41.205776193000077],[-109.05582175199999,41.208244163000074],[-109.05581456099998,41.211866533000034],[-109.05581228599999,41.213019656000029],[-109.05462306999999,41.213019376000034],[-109.05101592099999,41.21301845000005],[-109.05101830799998,41.211871021000036],[-109.05102583099995,41.208248568000045]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"s2 lot 8\",\"freeformdescription\":\"\",\"legalid\":\"261cf62b-8cfb-4e02-af26-28e7b5731754\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"s\",\"fraction\":\"1/2\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "261cf62b-8cfb-4e02-af26-28e7b5731754",
+      "ResponseGeometry": "{\"rings\":[[[-109.05941693299997,41.211862709000059],[-109.06390470099996,41.211857803000044],[-109.06390111899998,41.213668545000075],[-109.05941905999998,41.21367357500003],[-109.05941693299997,41.211862709000059]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"s2 lot 8\",\"freeformdescription\":\"\",\"legalid\":\"261cf62b-8cfb-4e02-af26-28e7b5731754\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"s\",\"fraction\":\"1/2\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "261cf62b-8cfb-4e02-af26-28e7b5731754",
+          "ResponseGeometry": "{\"rings\":[[[-109.05941693299997,41.211862709000059],[-109.06390470099996,41.211857803000044],[-109.06390111899998,41.213668545000075],[-109.05941905999998,41.21367357500003],[-109.05941693299997,41.211862709000059]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"n2 lot 9\",\"freeformdescription\":\"\",\"legalid\":\"7804a076-b728-43b8-96b3-79416ee08fa0\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"l\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"fraction\":\"1/2\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "7804a076-b728-43b8-96b3-79416ee08fa0",
+      "ResponseGeometry": "{\"rings\":[[[-109.05941480599995,41.210051732000068],[-109.06390828199994,41.210047063000047],[-109.06390470099996,41.211857803000044],[-109.05941693299997,41.211862709000059],[-109.05941480599995,41.210051732000068]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"n2 lot 9\",\"freeformdescription\":\"\",\"legalid\":\"7804a076-b728-43b8-96b3-79416ee08fa0\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"l\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"fraction\":\"1/2\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "7804a076-b728-43b8-96b3-79416ee08fa0",
+          "ResponseGeometry": "{\"rings\":[[[-109.05941480599995,41.210051732000068],[-109.06390828199994,41.210047063000047],[-109.06390470099996,41.211857803000044],[-109.05941693299997,41.211862709000059],[-109.05941480599995,41.210051732000068]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"e2e2 lot 14,e2e2 lot 15\",\"freeformdescription\":\"\",\"legalid\":\"37904f12-b3bb-4333-b4a8-564603186d53\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"subdivision\":\"e2e2\",\"surveytype\":\"a\",\"type\":\"aliquot\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"15\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"subdivision\":\"e2e2\",\"surveytype\":\"a\",\"type\":\"aliquot\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "37904f12-b3bb-4333-b4a8-564603186d53",
+      "ResponseGeometry": "{\"rings\":[[[-109.05940414099996,41.200994679000075],[-109.06053464599995,41.200994342000058],[-109.06053607499996,41.204616977000057],[-109.06053747399994,41.208239646000038],[-109.05941267799994,41.20824075400003],[-109.05940842399997,41.204617690000077],[-109.05940414099996,41.200994679000075]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"e2e2 lot 14,e2e2 lot 15\",\"freeformdescription\":\"\",\"legalid\":\"37904f12-b3bb-4333-b4a8-564603186d53\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"subdivision\":\"e2e2\",\"surveytype\":\"a\",\"type\":\"aliquot\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"15\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"subdivision\":\"e2e2\",\"surveytype\":\"a\",\"type\":\"aliquot\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "37904f12-b3bb-4333-b4a8-564603186d53",
+          "ResponseGeometry": "{\"rings\":[[[-109.05940842399997,41.204617690000077],[-109.06053607499996,41.204616977000057],[-109.06053747399994,41.208239646000038],[-109.05941267799994,41.20824075400003],[-109.05940842399997,41.204617690000077]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"e2e2 lot 14,e2e2 lot 15\",\"freeformdescription\":\"\",\"legalid\":\"37904f12-b3bb-4333-b4a8-564603186d53\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"subdivision\":\"e2e2\",\"surveytype\":\"a\",\"type\":\"aliquot\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"15\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"subdivision\":\"e2e2\",\"surveytype\":\"a\",\"type\":\"aliquot\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "37904f12-b3bb-4333-b4a8-564603186d53",
+          "ResponseGeometry": "{\"rings\":[[[-109.05940414099996,41.200994679000075],[-109.06053464599995,41.200994342000058],[-109.06053607499996,41.204616977000057],[-109.05940842399997,41.204617690000077],[-109.05940414099996,41.200994679000075]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"w 10 ac lot 13,16\",\"freeformdescription\":\"\",\"legalid\":\"a719c707-9308-4177-b7e7-3dc7b107dedc\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"w\",\"area\":\"10\",\"areaunit\":\"acres\",\"type\":\"byarea\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"16\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "a719c707-9308-4177-b7e7-3dc7b107dedc",
+      "ResponseGeometry": "{\"rings\":[[[-109.05820919399997,41.204618413000048],[-109.05940842399997,41.204617690000077],[-109.05941267799994,41.20824075400003],[-109.05821338199996,41.208241893000036],[-109.05820919399997,41.204618413000048]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"w 10 ac lot 13,16\",\"freeformdescription\":\"\",\"legalid\":\"a719c707-9308-4177-b7e7-3dc7b107dedc\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"w\",\"area\":\"10\",\"areaunit\":\"acres\",\"type\":\"byarea\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"16\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "a719c707-9308-4177-b7e7-3dc7b107dedc",
+          "ResponseGeometry": "{\"rings\":[[[-109.05820919399997,41.204618413000048],[-109.05940842399997,41.204617690000077],[-109.05941267799994,41.20824075400003],[-109.05821338199996,41.208241893000036],[-109.05820919399997,41.204618413000048]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"w 10 ac lot 13,16\",\"freeformdescription\":\"\",\"legalid\":\"a719c707-9308-4177-b7e7-3dc7b107dedc\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"7\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"w\",\"area\":\"10\",\"areaunit\":\"acres\",\"type\":\"byarea\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"007\",\"description\":{\"surveynumber\":\"16\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "a719c707-9308-4177-b7e7-3dc7b107dedc",
+          "ResponseGeometry": "Legal Not Found",
+          "Status": "NOTCREATED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+      "ResponseGeometry": "{\"rings\":[[[-109.04624135299997,41.186518306000039],[-109.04980136099999,41.186514897000052],[-109.04980572799997,41.190137462000052],[-109.04981006699995,41.193760139000062],[-109.04501778399998,41.193763100000069],[-109.04501516899995,41.191278324000052],[-109.04624258199999,41.191277855000067],[-109.04624230099995,41.190140176000057],[-109.04624135299997,41.186518306000039]],[[-109.05939034599999,41.18650858500007],[-109.06395467499999,41.186507123000069],[-109.06394753999996,41.190128688000073],[-109.06394043399996,41.193750226000077],[-109.06393329699995,41.19737179100008],[-109.06392616199997,41.200993329000028],[-109.05940414099996,41.200994679000075],[-109.05940069199994,41.197374116000049],[-109.05939727199996,41.193753604000051],[-109.05939379499995,41.190131206000046],[-109.05939034599999,41.18650858500007]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "{\"rings\":[[[-109.05939379499995,41.190131206000046],[-109.05939034599999,41.18650858500007],[-109.06395467499999,41.186507123000069],[-109.06394753999996,41.190128688000073],[-109.05939379499995,41.190131206000046]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "{\"rings\":[[[-109.04501778399998,41.193763100000069],[-109.04501516899995,41.191278324000052],[-109.04624258199999,41.191277855000067],[-109.04624230099995,41.190140176000057],[-109.04980572799997,41.190137462000052],[-109.04981006699995,41.193760139000062],[-109.04501778399998,41.193763100000069]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "{\"rings\":[[[-109.04624230099995,41.190140176000057],[-109.04624135299997,41.186518306000039],[-109.04980136099999,41.186514897000052],[-109.04980572799997,41.190137462000052],[-109.04624230099995,41.190140176000057]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "Legal Not Found",
+          "Status": "NOTCREATED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "Legal Not Found",
+          "Status": "NOTCREATED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "{\"rings\":[[[-109.05940414099996,41.200994679000075],[-109.05940069199994,41.197374116000049],[-109.06393329699995,41.19737179100008],[-109.06392616199997,41.200993329000028],[-109.05940414099996,41.200994679000075]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "{\"rings\":[[[-109.05940069199994,41.197374116000049],[-109.05939727199996,41.193753604000051],[-109.06394043399996,41.193750226000077],[-109.06393329699995,41.19737179100008],[-109.05940069199994,41.197374116000049]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lots 7-14\",\"freeformdescription\":\"\",\"legalid\":\"2ef2fc4d-f151-4975-8d05-417f2f9537d7\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"10\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"11\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"12\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"13\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"14\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"surveynumber\":\"9\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+          "ResponseGeometry": "{\"rings\":[[[-109.05939727199996,41.193753604000051],[-109.05939379499995,41.190131206000046],[-109.06394753999996,41.190128688000073],[-109.06394043399996,41.193750226000077],[-109.05939727199996,41.193753604000051]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"e2ne\",\"freeformdescription\":\"\",\"legalid\":\"50e80dea-0f06-4fc6-a63d-2217a33d1be4\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"subdivision\":\"e2ne\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "50e80dea-0f06-4fc6-a63d-2217a33d1be4",
+      "ResponseGeometry": "{\"rings\":[[[-109.04501778399998,41.193763100000069],[-109.04981006699995,41.193760139000062],[-109.04981190599995,41.197381065000059],[-109.04981374299996,41.20100026700004],[-109.04501868399996,41.201008035000029],[-109.04501823299995,41.19738555400005],[-109.04501778399998,41.193763100000069]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"e2ne\",\"freeformdescription\":\"\",\"legalid\":\"50e80dea-0f06-4fc6-a63d-2217a33d1be4\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"subdivision\":\"e2ne\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "50e80dea-0f06-4fc6-a63d-2217a33d1be4",
+          "ResponseGeometry": "{\"rings\":[[[-109.04501778399998,41.193763100000069],[-109.04981006699995,41.193760139000062],[-109.04981190599995,41.197381065000059],[-109.04981374299996,41.20100026700004],[-109.04501868399996,41.201008035000029],[-109.04501823299995,41.19738555400005],[-109.04501778399998,41.193763100000069]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"e 1/3 senw\",\"freeformdescription\":\"\",\"legalid\":\"220e6b34-4aea-4088-819c-92ab63da4d67\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"subdivision\":\"senw\",\"surveytype\":\"a\",\"type\":\"aliquot\",\"description\":{\"direction\":\"e\",\"fraction\":\"1/3\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "220e6b34-4aea-4088-819c-92ab63da4d67",
+      "ResponseGeometry": "{\"rings\":[[[-109.05460234999998,41.193756954000037],[-109.05620065699998,41.193755837000026],[-109.05620394899995,41.197375625000063],[-109.05460557699996,41.197376380000037],[-109.05460234999998,41.193756954000037]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"e 1/3 senw\",\"freeformdescription\":\"\",\"legalid\":\"220e6b34-4aea-4088-819c-92ab63da4d67\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"18\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"018\",\"description\":{\"subdivision\":\"senw\",\"surveytype\":\"a\",\"type\":\"aliquot\",\"description\":{\"direction\":\"e\",\"fraction\":\"1/3\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "220e6b34-4aea-4088-819c-92ab63da4d67",
+          "ResponseGeometry": "{\"rings\":[[[-109.05460234999998,41.193756954000037],[-109.05620065699998,41.193755837000026],[-109.05620394899995,41.197375625000063],[-109.05460557699996,41.197376380000037],[-109.05460234999998,41.193756954000037]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"e3nw\",\"freeformdescription\":\"\",\"legalid\":\"098a179c-dad9-42fc-b249-c594df3691f8\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"19\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"019\",\"description\":{\"subdivision\":\"nw\",\"surveytype\":\"a\",\"type\":\"aliquot\",\"description\":{\"direction\":\"e\",\"fraction\":\"1/3\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "098a179c-dad9-42fc-b249-c594df3691f8",
+      "ResponseGeometry": "{\"rings\":[[[-109.05458035799995,41.179271028000073],[-109.05770200799998,41.179268610000065],[-109.05770768999997,41.186509196000031],[-109.05459589599997,41.186510325000029],[-109.05458811299997,41.182890676000056],[-109.05458035799995,41.179271028000073]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"e3nw\",\"freeformdescription\":\"\",\"legalid\":\"098a179c-dad9-42fc-b249-c594df3691f8\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"19\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"019\",\"description\":{\"subdivision\":\"nw\",\"surveytype\":\"a\",\"type\":\"aliquot\",\"description\":{\"direction\":\"e\",\"fraction\":\"1/3\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "098a179c-dad9-42fc-b249-c594df3691f8",
+          "ResponseGeometry": "{\"rings\":[[[-109.05458035799995,41.179271028000073],[-109.05770200799998,41.179268610000065],[-109.05770768999997,41.186509196000031],[-109.05459589599997,41.186510325000029],[-109.05458811299997,41.182890676000056],[-109.05458035799995,41.179271028000073]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"e2/3sw\",\"freeformdescription\":\"\",\"legalid\":\"5902d1a7-22a7-415a-98d0-56d09243bcb8\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"19\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"019\",\"description\":{\"subdivision\":\"sw\",\"surveytype\":\"a\",\"type\":\"aliquot\",\"description\":{\"direction\":\"e\",\"fraction\":\"2/3\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "5902d1a7-22a7-415a-98d0-56d09243bcb8",
+      "ResponseGeometry": "{\"rings\":[[[-109.05935771599997,41.172021129000029],[-109.06085134899996,41.172020764000081],[-109.06084712999996,41.179266107000046],[-109.05937403099995,41.179267315000061],[-109.05458035799995,41.179271028000073],[-109.05457257599994,41.175646741000037],[-109.05456479299994,41.172022453000068],[-109.05935771599997,41.172021129000029]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"e2/3sw\",\"freeformdescription\":\"\",\"legalid\":\"5902d1a7-22a7-415a-98d0-56d09243bcb8\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"19\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"019\",\"description\":{\"subdivision\":\"sw\",\"surveytype\":\"a\",\"type\":\"aliquot\",\"description\":{\"direction\":\"e\",\"fraction\":\"2/3\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "5902d1a7-22a7-415a-98d0-56d09243bcb8",
+          "ResponseGeometry": "{\"rings\":[[[-109.05935771599997,41.172021129000029],[-109.06085134899996,41.172020764000081],[-109.06084712999996,41.179266107000046],[-109.05937403099995,41.179267315000061],[-109.05458035799995,41.179271028000073],[-109.05457257599994,41.175646741000037],[-109.05456479299994,41.172022453000068],[-109.05935771599997,41.172021129000029]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"tr 42 east of aspen road\",\"freeformdescription\":\"\",\"legalid\":\"ee57324d-a9aa-4ef7-adf7-c96526bffc40\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"42\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "ee57324d-a9aa-4ef7-adf7-c96526bffc40",
+      "ResponseGeometry": "{\"rings\":[[[-109.04019605799999,41.176785222000035],[-109.04499053599994,41.176782787000036],[-109.04623686499997,41.176784401000077],[-109.04623800799999,41.179277010000078],[-109.04623967999999,41.182897519000051],[-109.04624135299997,41.186518306000039],[-109.04624230099995,41.190140176000057],[-109.04624258199999,41.191277855000067],[-109.04501516899995,41.191278324000052],[-109.04021894099998,41.191278619000059],[-109.03542385299994,41.191278914000065],[-109.03063045899995,41.191279209000072],[-109.02706586499994,41.191279423000026],[-109.02706750199997,41.190105355000071],[-109.02707263499997,41.18648412500005],[-109.02706909999995,41.182863032000057],[-109.02706559299997,41.179242080000051],[-109.02706319899994,41.176791944000058],[-109.03061001599997,41.17679014600003],[-109.03540279999999,41.176787684000033],[-109.04019605799999,41.176785222000035]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"tr 42 east of aspen road\",\"freeformdescription\":\"\",\"legalid\":\"ee57324d-a9aa-4ef7-adf7-c96526bffc40\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"42\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "ee57324d-a9aa-4ef7-adf7-c96526bffc40",
+          "ResponseGeometry": "{\"rings\":[[[-109.04019605799999,41.176785222000035],[-109.04499053599994,41.176782787000036],[-109.04623686499997,41.176784401000077],[-109.04623800799999,41.179277010000078],[-109.04623967999999,41.182897519000051],[-109.04624135299997,41.186518306000039],[-109.04624230099995,41.190140176000057],[-109.04624258199999,41.191277855000067],[-109.04501516899995,41.191278324000052],[-109.04021894099998,41.191278619000059],[-109.03542385299994,41.191278914000065],[-109.03063045899995,41.191279209000072],[-109.02706586499994,41.191279423000026],[-109.02706750199997,41.190105355000071],[-109.02707263499997,41.18648412500005],[-109.02706909999995,41.182863032000057],[-109.02706559299997,41.179242080000051],[-109.02706319899994,41.176791944000058],[-109.03061001599997,41.17679014600003],[-109.03540279999999,41.176787684000033],[-109.04019605799999,41.176785222000035]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"tr 42 east of aspen road\",\"freeformdescription\":\"\",\"legalid\":\"ee57324d-a9aa-4ef7-adf7-c96526bffc40\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"42\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "ee57324d-a9aa-4ef7-adf7-c96526bffc40",
+          "ResponseGeometry": "Legal Not Found",
+          "Status": "NOTCREATED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"l8 except nenenene\",\"freeformdescription\":\"\",\"legalid\":\"25570028-4dee-4836-842d-807e60fadea6\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"6\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"006\",\"description\":{\"subdivision\":\"nenenene\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":true,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"006\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "25570028-4dee-4836-842d-807e60fadea6",
+      "ResponseGeometry": "{\"rings\":[[[-109.04504458299999,41.226363653000078],[-109.04983411199998,41.226358890000029],[-109.04983458899994,41.229482310000037],[-109.04897160899998,41.22948036400004],[-109.04621960499998,41.229471261000072],[-109.04621921599994,41.228709443000071],[-109.04504605399995,41.228706967000051],[-109.04504458299999,41.226363653000078]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"l8 except nenenene\",\"freeformdescription\":\"\",\"legalid\":\"25570028-4dee-4836-842d-807e60fadea6\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1030w\",\"section\":\"6\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1030w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"006\",\"description\":{\"subdivision\":\"nenenene\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":true,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"006\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "25570028-4dee-4836-842d-807e60fadea6",
+          "ResponseGeometry": "{\"rings\":[[[-109.04504458299999,41.226363653000078],[-109.04983411199998,41.226358890000029],[-109.04983458899994,41.229482310000037],[-109.04897160899998,41.22948036400004],[-109.04621960499998,41.229471261000072],[-109.04621921599994,41.228709443000071],[-109.04504605399995,41.228706967000051],[-109.04504458299999,41.226363653000078]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"t 40\",\"freeformdescription\":\"\",\"legalid\":\"41044cc2-2287-40cd-8388-700bfa71b4b1\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"40\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "41044cc2-2287-40cd-8388-700bfa71b4b1",
+      "ResponseGeometry": "{\"rings\":[[[-109.08320967399999,41.147833257000059],[-109.08464487399999,41.147828120000042],[-109.08463276399999,41.150250285000027],[-109.08461465599999,41.153872128000046],[-109.08459654499995,41.157491973000049],[-109.08459535299994,41.16111623300003],[-109.08459496499995,41.162320635000071],[-109.08316440399994,41.162321549000069],[-109.07837020199997,41.162322845000062],[-109.07501003299996,41.162323783000033],[-109.07357755399994,41.162324807000061],[-109.06878565899996,41.162328271000035],[-109.06542573899998,41.162330680000025],[-109.06542840399999,41.16115175200008],[-109.06543662399997,41.157529991000047],[-109.06544064799999,41.155087050000077],[-109.06879373499999,41.15508502800003],[-109.07358510499995,41.155082148000076],[-109.07502572099997,41.155081290000055],[-109.07503152599998,41.153889389000028],[-109.07504916299996,41.150267351000025],[-109.07506099399995,41.147837436000032],[-109.07839463599998,41.147835720000046],[-109.08320967399999,41.147833257000059]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"t 40\",\"freeformdescription\":\"\",\"legalid\":\"41044cc2-2287-40cd-8388-700bfa71b4b1\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"40\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "41044cc2-2287-40cd-8388-700bfa71b4b1",
+          "ResponseGeometry": "{\"rings\":[[[-109.08320967399999,41.147833257000059],[-109.08464487399999,41.147828120000042],[-109.08463276399999,41.150250285000027],[-109.08461465599999,41.153872128000046],[-109.08459654499995,41.157491973000049],[-109.08459535299994,41.16111623300003],[-109.08459496499995,41.162320635000071],[-109.08316440399994,41.162321549000069],[-109.07837020199997,41.162322845000062],[-109.07501003299996,41.162323783000033],[-109.07357755399994,41.162324807000061],[-109.06878565899996,41.162328271000035],[-109.06542573899998,41.162330680000025],[-109.06542840399999,41.16115175200008],[-109.06543662399997,41.157529991000047],[-109.06544064799999,41.155087050000077],[-109.06879373499999,41.15508502800003],[-109.07358510499995,41.155082148000076],[-109.07502572099997,41.155081290000055],[-109.07503152599998,41.153889389000028],[-109.07504916299996,41.150267351000025],[-109.07506099399995,41.147837436000032],[-109.07839463599998,41.147835720000046],[-109.08320967399999,41.147833257000059]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"nw excl w2nwnw\",\"freeformdescription\":\"\",\"legalid\":\"dcb12fc8-bf12-442d-ac99-760d9fbfe161\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"13\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"subdivision\":\"nw\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"subdivision\":\"w2nwnw\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":true,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "dcb12fc8-bf12-442d-ac99-760d9fbfe161",
+      "ResponseGeometry": "{\"rings\":[[[-109.07831439199998,41.193723675000058],[-109.08310567399997,41.193714408000062],[-109.08309753899999,41.197336085000074],[-109.08070200899999,41.197340649000068],[-109.08069399699997,41.200962188000062],[-109.07829859199995,41.200966641000036],[-109.07350778199998,41.200975547000041],[-109.07351544599999,41.197354147000055],[-109.07352308199995,41.193732720000071],[-109.07831439199998,41.193723675000058]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"nw excl w2nwnw\",\"freeformdescription\":\"\",\"legalid\":\"dcb12fc8-bf12-442d-ac99-760d9fbfe161\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"13\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"subdivision\":\"nw\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"subdivision\":\"w2nwnw\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":true,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "dcb12fc8-bf12-442d-ac99-760d9fbfe161",
+          "ResponseGeometry": "{\"rings\":[[[-109.07831439199998,41.193723675000058],[-109.08310567399997,41.193714408000062],[-109.08309753899999,41.197336085000074],[-109.08070200899999,41.197340649000068],[-109.08069399699997,41.200962188000062],[-109.07829859199995,41.200966641000036],[-109.07350778199998,41.200975547000041],[-109.07351544599999,41.197354147000055],[-109.07352308199995,41.193732720000071],[-109.07831439199998,41.193723675000058]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"w 1/4 lot 2\",\"freeformdescription\":\"\",\"legalid\":\"24be4926-7ad4-448c-a7be-d7453ca58f2f\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"13\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"surveynumber\":\"2\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"w\",\"fraction\":\"1/4\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "24be4926-7ad4-448c-a7be-d7453ca58f2f",
+      "ResponseGeometry": "{\"rings\":[[[-109.07233890699996,41.190111853000076],[-109.07353074599996,41.190109432000042],[-109.07352308199995,41.193732720000071],[-109.07233124399994,41.193734922000033],[-109.07233890699996,41.190111853000076]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "QUESTIONABLE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"w 1/4 lot 2\",\"freeformdescription\":\"\",\"legalid\":\"24be4926-7ad4-448c-a7be-d7453ca58f2f\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"13\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"surveynumber\":\"2\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"w\",\"fraction\":\"1/4\",\"type\":\"byfraction\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "24be4926-7ad4-448c-a7be-d7453ca58f2f",
+          "ResponseGeometry": "{\"rings\":[[[-109.07233890699996,41.190111853000076],[-109.07353074599996,41.190109432000042],[-109.07352308199995,41.193732720000071],[-109.07233124399994,41.193734922000033],[-109.07233890699996,41.190111853000076]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "QUESTIONABLE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"e6\",\"freeformdescription\":\"\",\"legalid\":\"97769c65-69e4-4365-8b93-007504fc32de\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"13\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"direction\":\"e\",\"fraction\":\"1/6\",\"type\":\"byfraction\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "97769c65-69e4-4365-8b93-007504fc32de",
+      "ResponseGeometry": "{\"rings\":[[[-109.06539273499999,41.18650490400006],[-109.06711728099998,41.186500937000062],[-109.06708809699995,41.20098747000003],[-109.06392616199997,41.200993329000028],[-109.06393329699995,41.19737179100008],[-109.06394043399996,41.193750226000077],[-109.06394753999996,41.190128688000073],[-109.06395467499999,41.186507123000069],[-109.06539273499999,41.18650490400006]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"e6\",\"freeformdescription\":\"\",\"legalid\":\"97769c65-69e4-4365-8b93-007504fc32de\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"13\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"013\",\"description\":{\"direction\":\"e\",\"fraction\":\"1/6\",\"type\":\"byfraction\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "97769c65-69e4-4365-8b93-007504fc32de",
+          "ResponseGeometry": "{\"rings\":[[[-109.06539273499999,41.18650490400006],[-109.06711728099998,41.186500937000062],[-109.06708809699995,41.20098747000003],[-109.06392616199997,41.200993329000028],[-109.06393329699995,41.19737179100008],[-109.06394043399996,41.193750226000077],[-109.06394753999996,41.190128688000073],[-109.06395467499999,41.186507123000069],[-109.06539273499999,41.18650490400006]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"s 7.5 ch lot 4,5;\",\"freeformdescription\":\"\",\"legalid\":\"90ee1318-37ad-4d2c-900b-5397eb787480\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"23\",\"state\":\"wy\",\"surveytypecode\":\"l\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"s\",\"distance\":\"7.5\",\"distanceunit\":\"chains\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "90ee1318-37ad-4d2c-900b-5397eb787480",
+      "ResponseGeometry": "{\"rings\":[[[-109.08313616499998,41.179227561000062],[-109.08313713699994,41.176808202000075],[-109.08456072299998,41.176807121000024],[-109.08793350399998,41.176813628000048],[-109.09272539999995,41.17682288900005],[-109.09414343099996,41.176825614000052],[-109.09413466699999,41.178184259000034],[-109.08792998199999,41.178172280000069],[-109.08792725499995,41.179224265000073],[-109.08313616499998,41.179227561000062]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"s 7.5 ch lot 4,5;\",\"freeformdescription\":\"\",\"legalid\":\"90ee1318-37ad-4d2c-900b-5397eb787480\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"23\",\"state\":\"wy\",\"surveytypecode\":\"l\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"s\",\"distance\":\"7.5\",\"distanceunit\":\"chains\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "90ee1318-37ad-4d2c-900b-5397eb787480",
+          "ResponseGeometry": "{\"rings\":[[[-109.08792998199999,41.178172280000069],[-109.08793350399998,41.176813628000048],[-109.09272539999995,41.17682288900005],[-109.09414343099996,41.176825614000052],[-109.09413466699999,41.178184259000034],[-109.08792998199999,41.178172280000069]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "DERIVED",
+          "CreationMethod": "GOOD",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"s 7.5 ch lot 4,5;\",\"freeformdescription\":\"\",\"legalid\":\"90ee1318-37ad-4d2c-900b-5397eb787480\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"23\",\"state\":\"wy\",\"surveytypecode\":\"l\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"s\",\"distance\":\"7.5\",\"distanceunit\":\"chains\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "90ee1318-37ad-4d2c-900b-5397eb787480",
+          "ResponseGeometry": "{\"rings\":[[[-109.08313616499998,41.179227561000062],[-109.08313713699994,41.176808202000075],[-109.08456072299998,41.176807121000024],[-109.08793350399998,41.176813628000048],[-109.08792725499995,41.179224265000073],[-109.08313616499998,41.179227561000062]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"n 730 ft tr 44,n 730 ft tr 42;\",\"freeformdescription\":\"\",\"legalid\":\"86a7bcc2-bf19-483f-9c59-fe1c7a4a009a\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"23\",\"state\":\"wy\",\"surveytypecode\":\"t\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"42\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"distance\":\"730\",\"distanceunit\":\"feet\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"44\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"distance\":\"730\",\"distanceunit\":\"feet\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "86a7bcc2-bf19-483f-9c59-fe1c7a4a009a",
+      "ResponseGeometry": "{\"rings\":[[[-109.08456505699996,41.175605331000042],[-109.08456795499995,41.174803457000053],[-109.09894265699995,41.174825171000066],[-109.10232039699997,41.174826339000049],[-109.10231838499999,41.175591396000073],[-109.10231510699998,41.176830020000068],[-109.09893621499998,41.176828847000024],[-109.09751996199998,41.176827899000045],[-109.09414343099996,41.176825614000052],[-109.09272539999995,41.17682288900005],[-109.08793350399998,41.176813628000048],[-109.08456072299998,41.176807121000024],[-109.08456505699996,41.175605331000042]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "GOOD",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"n 730 ft tr 44,n 730 ft tr 42;\",\"freeformdescription\":\"\",\"legalid\":\"86a7bcc2-bf19-483f-9c59-fe1c7a4a009a\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"23\",\"state\":\"wy\",\"surveytypecode\":\"t\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"42\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"distance\":\"730\",\"distanceunit\":\"feet\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"44\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"distance\":\"730\",\"distanceunit\":\"feet\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "86a7bcc2-bf19-483f-9c59-fe1c7a4a009a",
+          "ResponseGeometry": "{\"rings\":[[[-109.08456505699996,41.175605331000042],[-109.08456795499995,41.174803457000053],[-109.09894265699995,41.174825172000055],[-109.09894018799997,41.175594834000037],[-109.09893621499998,41.176828847000024],[-109.09751996199998,41.176827899000045],[-109.09414343099996,41.176825614000052],[-109.09272539999995,41.17682288900005],[-109.08793350399998,41.176813628000048],[-109.08456072299998,41.176807121000024],[-109.08456505699996,41.175605331000042]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "DERIVED",
+          "CreationMethod": "GOOD",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"n 730 ft tr 44,n 730 ft tr 42;\",\"freeformdescription\":\"\",\"legalid\":\"86a7bcc2-bf19-483f-9c59-fe1c7a4a009a\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"23\",\"state\":\"wy\",\"surveytypecode\":\"t\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"42\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"distance\":\"730\",\"distanceunit\":\"feet\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"023\",\"description\":{\"surveynumber\":\"44\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\",\"description\":{\"direction\":\"n\",\"distance\":\"730\",\"distanceunit\":\"feet\",\"type\":\"bydistance\"}},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "86a7bcc2-bf19-483f-9c59-fe1c7a4a009a",
+          "ResponseGeometry": "{\"rings\":[[[-109.09894018799997,41.175594834000037],[-109.09894265699995,41.17482516900003],[-109.10232039699997,41.174826339000049],[-109.10231838499999,41.175591396000073],[-109.10231510699998,41.176830020000068],[-109.09893621499998,41.176828847000024],[-109.09894018799997,41.175594834000037]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "DERIVED",
+          "CreationMethod": "GOOD",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"l 1,4,5,8\",\"freeformdescription\":\"\",\"legalid\":\"afbee892-10ed-499f-90c0-94c8e2008beb\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"1\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "afbee892-10ed-499f-90c0-94c8e2008beb",
+      "ResponseGeometry": "{\"rings\":[[[-109.06398285499995,41.172020000000032],[-109.06542052699996,41.172017448000076],[-109.06539791799997,41.17563926400004],[-109.06539055699994,41.176817665000044],[-109.06539092099996,41.17926099500005],[-109.06539145399995,41.182882505000066],[-109.06539164999998,41.184060295000052],[-109.06539273499999,41.18650490400006],[-109.06395467499999,41.186507123000069],[-109.06396172899997,41.182885336000027],[-109.06396877899999,41.179263548000051],[-109.06397583099999,41.175641788000064],[-109.06398285499995,41.172020000000032]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"l 1,4,5,8\",\"freeformdescription\":\"\",\"legalid\":\"afbee892-10ed-499f-90c0-94c8e2008beb\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"1\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "afbee892-10ed-499f-90c0-94c8e2008beb",
+          "ResponseGeometry": "{\"rings\":[[[-109.06395467499999,41.186507123000069],[-109.06396172899997,41.182885336000027],[-109.06539145399995,41.182882505000066],[-109.06539164999998,41.184060295000052],[-109.06539273499999,41.18650490400006],[-109.06395467499999,41.186507123000069]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"l 1,4,5,8\",\"freeformdescription\":\"\",\"legalid\":\"afbee892-10ed-499f-90c0-94c8e2008beb\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"1\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "afbee892-10ed-499f-90c0-94c8e2008beb",
+          "ResponseGeometry": "{\"rings\":[[[-109.06396172899997,41.182885336000027],[-109.06396877899999,41.179263548000051],[-109.06539092099996,41.17926099500005],[-109.06539145399995,41.182882505000066],[-109.06396172899997,41.182885336000027]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"l 1,4,5,8\",\"freeformdescription\":\"\",\"legalid\":\"afbee892-10ed-499f-90c0-94c8e2008beb\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"1\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "afbee892-10ed-499f-90c0-94c8e2008beb",
+          "ResponseGeometry": "{\"rings\":[[[-109.06396877899999,41.179263548000051],[-109.06397583099999,41.175641788000064],[-109.06539791799997,41.17563926400004],[-109.06539055699994,41.176817665000044],[-109.06539092099996,41.17926099500005],[-109.06396877899999,41.179263548000051]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"l 1,4,5,8\",\"freeformdescription\":\"\",\"legalid\":\"afbee892-10ed-499f-90c0-94c8e2008beb\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"1\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"4\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"8\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "afbee892-10ed-499f-90c0-94c8e2008beb",
+          "ResponseGeometry": "{\"rings\":[[[-109.06397583099999,41.175641788000064],[-109.06398285499995,41.172020000000032],[-109.06542052699996,41.172017448000076],[-109.06539791799997,41.17563926400004],[-109.06397583099999,41.175641788000064]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"lts 6,7 south of little basin crk;\",\"freeformdescription\":\"\",\"legalid\":\"be4147b1-a955-42f4-b92f-1a7cb7fc450d\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"6\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"crk\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "be4147b1-a955-42f4-b92f-1a7cb7fc450d",
+      "ResponseGeometry": "{\"rings\":[[[-109.07835001899997,41.176812914000038],[-109.08313713699994,41.176808202000075],[-109.08313616499998,41.179227561000062],[-109.07834479799999,41.179236856000045],[-109.07497671199997,41.179243265000025],[-109.07497548899994,41.176816240000051],[-109.07835001899997,41.176812914000038]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lts 6,7 south of little basin crk;\",\"freeformdescription\":\"\",\"legalid\":\"be4147b1-a955-42f4-b92f-1a7cb7fc450d\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"6\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"crk\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "be4147b1-a955-42f4-b92f-1a7cb7fc450d",
+          "ResponseGeometry": "{\"rings\":[[[-109.07497671199997,41.179243265000025],[-109.07497548899994,41.176816240000051],[-109.07835001899997,41.176812914000038],[-109.07834479799999,41.179236856000045],[-109.07497671199997,41.179243265000025]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lts 6,7 south of little basin crk;\",\"freeformdescription\":\"\",\"legalid\":\"be4147b1-a955-42f4-b92f-1a7cb7fc450d\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"6\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"crk\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "be4147b1-a955-42f4-b92f-1a7cb7fc450d",
+          "ResponseGeometry": "{\"rings\":[[[-109.07834479799999,41.179236856000045],[-109.07835001899997,41.176812914000038],[-109.08313713699994,41.176808202000075],[-109.08313616499998,41.179227561000062],[-109.07834479799999,41.179236856000045]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lts 6,7 south of little basin crk;\",\"freeformdescription\":\"\",\"legalid\":\"be4147b1-a955-42f4-b92f-1a7cb7fc450d\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"6\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"crk\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "be4147b1-a955-42f4-b92f-1a7cb7fc450d",
+          "ResponseGeometry": "Legal Not Found",
+          "Status": "NOTCREATED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"lts 6,7 south of little basin crk;\",\"freeformdescription\":\"\",\"legalid\":\"be4147b1-a955-42f4-b92f-1a7cb7fc450d\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"24\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"6\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"7\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"crk\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"024\",\"description\":{\"surveynumber\":\"of\",\"surveytype\":\"1\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "be4147b1-a955-42f4-b92f-1a7cb7fc450d",
+          "ResponseGeometry": "Legal Not Found",
+          "Status": "NOTCREATED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Error_LegalParsingError",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": "The Legal Parsing Error: INVALID",
+      "InputRequest": "{\"description\":\"green river;\",\"freeformdescription\":\"\",\"legalid\":\"79f80645-47e3-4c7f-8e8e-873f105ec28a\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"25\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "",
+      "LegalId": "79f80645-47e3-4c7f-8e8e-873f105ec28a",
+      "ResponseGeometry": null,
+      "Status": null,
+      "CreationMethod": null,
+      "Children": []
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"all excl tracts 40,41;\",\"freeformdescription\":\"\",\"legalid\":\"f3d087ec-4872-486a-bd44-1f96e52edc68\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"26\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"026\",\"description\":{\"subdivision\":\"all\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"026\",\"description\":{\"surveynumber\":\"40\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":true,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"026\",\"description\":{\"surveynumber\":\"41\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":true,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "f3d087ec-4872-486a-bd44-1f96e52edc68",
+      "ResponseGeometry": "{\"rings\":[[[-109.08316235099994,41.164739380000071],[-109.08316440399994,41.162321549000069],[-109.08459496499995,41.162320635000071],[-109.08795632999994,41.162324196000043],[-109.09274975399995,41.162329262000071],[-109.09418048199996,41.162330793000081],[-109.09418223099999,41.161109502000045],[-109.09418747899997,41.157484907000025],[-109.09755025999999,41.15748424700007],[-109.10234562999995,41.157483285000069],[-109.10233538099999,41.161104712000053],[-109.10232513099999,41.164726140000027],[-109.10232532699996,41.165966598000068],[-109.10232635499995,41.168347873000073],[-109.10232791199996,41.171969635000039],[-109.09895179799997,41.171975628000041],[-109.09753376499998,41.171976875000041],[-109.09273961999997,41.171981115000051],[-109.08794600099998,41.171983688000068],[-109.08457813699994,41.171985514000028],[-109.08315235599997,41.17198453900005],[-109.08315238199998,41.169564570000034],[-109.08315488099998,41.168361947000051],[-109.08316235099994,41.164739380000071]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"all excl tracts 40,41;\",\"freeformdescription\":\"\",\"legalid\":\"f3d087ec-4872-486a-bd44-1f96e52edc68\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"26\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"026\",\"description\":{\"subdivision\":\"all\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"026\",\"description\":{\"surveynumber\":\"40\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":true,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"026\",\"description\":{\"surveynumber\":\"41\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":true,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "f3d087ec-4872-486a-bd44-1f96e52edc68",
+          "ResponseGeometry": "{\"rings\":[[[-109.08316235099994,41.164739380000071],[-109.08316440399994,41.162321549000069],[-109.08459496499995,41.162320635000071],[-109.08795632999994,41.162324196000043],[-109.09274975399995,41.162329262000071],[-109.09418048199996,41.162330793000081],[-109.09418223099999,41.161109502000045],[-109.09418747899997,41.157484907000025],[-109.09755025999999,41.15748424700007],[-109.10234562999995,41.157483285000069],[-109.10233538099999,41.161104712000053],[-109.10232513099999,41.164726140000027],[-109.10232532699996,41.165966598000068],[-109.10232635499995,41.168347873000073],[-109.10232791199996,41.171969635000039],[-109.09895179799997,41.171975628000041],[-109.09753376499998,41.171976875000041],[-109.09273961999997,41.171981115000051],[-109.08794600099998,41.171983688000068],[-109.08457813699994,41.171985514000028],[-109.08315235599997,41.17198453900005],[-109.08315238199998,41.169564570000034],[-109.08315488099998,41.168361947000051],[-109.08316235099994,41.164739380000071]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"tr 37-39\",\"freeformdescription\":\"\",\"legalid\":\"9e0b42ff-a54a-462f-99dc-8eddef4cb5d4\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"37\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"38\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"39\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "9e0b42ff-a54a-462f-99dc-8eddef4cb5d4",
+      "ResponseGeometry": "{\"rings\":[[[-109.06539037899995,41.190125830000056],[-109.06539273499999,41.18650490400006],[-109.06539164999998,41.184060295000052],[-109.06539145399995,41.182882505000066],[-109.06539092099996,41.17926099500005],[-109.06539055699994,41.176817665000044],[-109.06539791799997,41.17563926400004],[-109.06542052699996,41.172017448000076],[-109.06542246799995,41.168395549000024],[-109.06542440799996,41.164773622000041],[-109.06542573899998,41.162330680000025],[-109.06878565899996,41.162328271000035],[-109.07357755399994,41.162324807000061],[-109.07501003299996,41.162323783000033],[-109.07500420099996,41.16475547400006],[-109.07499550999995,41.168377846000055],[-109.07499264999996,41.169567331000053],[-109.07836320699994,41.16956619900003],[-109.08315238199998,41.169564570000034],[-109.08457827499996,41.169562850000034],[-109.08457813699994,41.171985514000028],[-109.08456505699996,41.175605331000042],[-109.08456072299998,41.176807121000024],[-109.08313713699994,41.176808202000075],[-109.07835001899997,41.176812914000038],[-109.07497548899994,41.176816240000051],[-109.07497671199997,41.179243265000025],[-109.07497729699998,41.180438167000034],[-109.07497696599995,41.182863610000027],[-109.07497646899998,41.186483202000034],[-109.07497666499995,41.187682049000045],[-109.07353588199999,41.187682046000077],[-109.07018238099994,41.187682011000049],[-109.07018357799996,41.190116230000058],[-109.07018416199998,41.191303853000079],[-109.06873674099995,41.191303850000054],[-109.06538960099999,41.191303843000071],[-109.06539037899995,41.190125830000056]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"tr 37-39\",\"freeformdescription\":\"\",\"legalid\":\"9e0b42ff-a54a-462f-99dc-8eddef4cb5d4\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"37\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"38\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"39\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "9e0b42ff-a54a-462f-99dc-8eddef4cb5d4",
+          "ResponseGeometry": "{\"rings\":[[[-109.06539037899995,41.190125830000056],[-109.06539273499999,41.18650490400006],[-109.06539164999998,41.184060295000052],[-109.06875142799998,41.184060192000061],[-109.07018565499999,41.184060167000041],[-109.07018495999995,41.182872903000032],[-109.07018354199994,41.180438325000068],[-109.07355095999998,41.180438220000042],[-109.07497729699998,41.180438167000034],[-109.07497696599995,41.182863610000027],[-109.07497646899998,41.186483202000034],[-109.07497666499995,41.187682049000045],[-109.07353588199999,41.187682046000077],[-109.07018238099994,41.187682011000049],[-109.07018357799996,41.190116230000058],[-109.07018416199998,41.191303853000079],[-109.06873674099995,41.191303850000054],[-109.06538960099999,41.191303843000071],[-109.06539037899995,41.190125830000056]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"tr 37-39\",\"freeformdescription\":\"\",\"legalid\":\"9e0b42ff-a54a-462f-99dc-8eddef4cb5d4\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"37\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"38\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"39\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "9e0b42ff-a54a-462f-99dc-8eddef4cb5d4",
+          "ResponseGeometry": "{\"rings\":[[[-109.07355845699999,41.176816459000065],[-109.07497548899994,41.176816240000051],[-109.07497671199997,41.179243265000025],[-109.07497729699998,41.180438167000034],[-109.07355095999998,41.180438220000042],[-109.07018354199994,41.180438325000068],[-109.07018495999995,41.182872903000032],[-109.07018565499999,41.184060167000041],[-109.06875142799998,41.184060192000061],[-109.06539164999998,41.184060295000052],[-109.06539145399995,41.182882505000066],[-109.06539092099996,41.17926099500005],[-109.06539055699994,41.176817665000044],[-109.06876600599998,41.176817172000028],[-109.07355845699999,41.176816459000065]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"tr 37-39\",\"freeformdescription\":\"\",\"legalid\":\"9e0b42ff-a54a-462f-99dc-8eddef4cb5d4\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"0\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"37\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"38\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"000\",\"description\":{\"surveynumber\":\"39\",\"surveytype\":\"t\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "9e0b42ff-a54a-462f-99dc-8eddef4cb5d4",
+          "ResponseGeometry": "{\"rings\":[[[-109.06542052699996,41.172017448000076],[-109.06542246799995,41.168395549000024],[-109.06542440799996,41.164773622000041],[-109.06542573899998,41.162330680000025],[-109.06878565899996,41.162328271000035],[-109.07357755399994,41.162324807000061],[-109.07501003299996,41.162323783000033],[-109.07500420099996,41.16475547400006],[-109.07499550999995,41.168377846000055],[-109.07499264999996,41.169567331000053],[-109.07836320699994,41.16956619900003],[-109.08315238199998,41.169564570000034],[-109.08457827499996,41.169562850000034],[-109.08457813699994,41.171985514000028],[-109.08456505699996,41.175605331000042],[-109.08456072299998,41.176807121000024],[-109.08313713699994,41.176808202000075],[-109.07835001899997,41.176812914000038],[-109.07497548899994,41.176816240000051],[-109.07355845699999,41.176816459000065],[-109.06876600599998,41.176817172000028],[-109.06539055699994,41.176817665000044],[-109.06539791799997,41.17563926400004],[-109.06542052699996,41.172017448000076]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"l5 except senene\",\"freeformdescription\":\"\",\"legalid\":\"8e830aa1-c2d1-4750-9b69-f929261b00a0\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"1\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"senene\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":true,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "8e830aa1-c2d1-4750-9b69-f929261b00a0",
+      "ResponseGeometry": "{\"rings\":[[[-109.06625549499995,41.226339432000032],[-109.06865796799997,41.226334800000075],[-109.06865063699996,41.229531110000039],[-109.06781449199997,41.229529608000064],[-109.06384616199995,41.229525681000041],[-109.06384959199994,41.227934872000048],[-109.06625194699996,41.227933914000062],[-109.06625549499995,41.226339432000032]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"l5 except senene\",\"freeformdescription\":\"\",\"legalid\":\"8e830aa1-c2d1-4750-9b69-f929261b00a0\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"1040w\",\"section\":\"1\",\"state\":\"wy\",\"surveytypecode\":\"1\",\"township\":\"0140n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060140n1040w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"senene\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":true,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"surveynumber\":\"5\",\"surveytype\":\"l\",\"nominal\":\"\",\"type\":\"survey\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "8e830aa1-c2d1-4750-9b69-f929261b00a0",
+          "ResponseGeometry": "{\"rings\":[[[-109.06625549499995,41.226339432000032],[-109.06865796799997,41.226334800000075],[-109.06865063699996,41.229531110000039],[-109.06781449199997,41.229529608000064],[-109.06384616199995,41.229525681000041],[-109.06384959199994,41.227934872000048],[-109.06625194699996,41.227933914000062],[-109.06625549499995,41.226339432000032]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "EXISTED",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "ResponseType": "Error_LegalNotFound",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": "The Legal Not Found or Could Not Be Mapped: {\"description\":\"\",\"freeformdescription\":\"\",\"legalid\":\"23c37b6e-0468-41e4-8c44-ac8c4c3d8e91\",\"legaltype\":\"plss\",\"meridian\":\"end\",\"range\":\"\",\"section\":\"\",\"state\":\"wy\",\"surveytypecode\":\"\",\"township\":\"\"}",
+      "InputRequest": "{\"description\":\"\",\"freeformdescription\":\"\",\"legalid\":\"23c37b6e-0468-41e4-8c44-ac8c4c3d8e91\",\"legaltype\":\"plss\",\"meridian\":\"end\",\"range\":\"\",\"section\":\"\",\"state\":\"wy\",\"surveytypecode\":\"\",\"township\":\"\"}",
+      "ParsedRequest": "{\"plssid\":\"wyend0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"0\",\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "23c37b6e-0468-41e4-8c44-ac8c4c3d8e91",
+      "ResponseGeometry": null,
+      "Status": null,
+      "CreationMethod": null,
+      "Children": []
+    }
+  ]
+}

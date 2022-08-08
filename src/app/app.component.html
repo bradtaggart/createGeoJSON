@@ -1,0 +1,21 @@
+<div>
+  <button (click)="runTest()">Run Test</button>
+</div>
+<div style="text-align:left">
+  <h2>
+    Carteview server output...
+  </h2>
+  <div *ngFor="let item of data">
+      <h3>Legal ID :{{item.legalid}}</h3>
+      <p>Township: {{item.township}}, Range: {{item.range}}, Section: {{item.section}}, Description: {{item.description}}</p>
+      <div *ngFor="let geo of item.geometry">
+        <div *ngFor="let ring of geo.rings">
+          <h4>Coordinates</h4>
+          <div *ngFor="let coord of ring">
+            <p>long:{{coord[0]}}, lat:{{coord[1]}}</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
