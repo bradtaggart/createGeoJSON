@@ -1,0 +1,47 @@
+{
+  "statuscode": 200,
+  "statustext": "OK",
+  "headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,X-Amz-Date,Authorization,X-Api-Key,x-requested-with,Accept"
+  },
+  "body": [
+    {
+      "ResponseType": "Success",
+      "SoeVersion": "2.2.0.2569",
+      "ResponseMessage": null,
+      "InputRequest": "{\"description\":\"nene,sese;\",\"freeformdescription\":\"\",\"legalid\":\"99d06fda-5e9e-4b86-9667-6af1bd348709\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"0830w\",\"section\":\"1\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0420n\"}",
+      "ParsedRequest": "{\"plssid\":\"wy060420n0830w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"nene\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"sese\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+      "LegalId": "99d06fda-5e9e-4b86-9667-6af1bd348709",
+      "ResponseGeometry": "{\"rings\":[[[-106.75407223099995,43.632202951000068],[-106.75407359499997,43.628653591000045],[-106.75899762199998,43.628784873000029],[-106.75897706299997,43.632345733000079],[-106.75407223099995,43.632202951000068]],[[-106.75407641499999,43.642849750000039],[-106.75407364099999,43.639301031000059],[-106.75893796999998,43.639466312000025],[-106.75891940999998,43.643035004000069],[-106.75675670299995,43.642952330000071],[-106.75407641499999,43.642849750000039]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+      "Status": "Success",
+      "CreationMethod": "NONE",
+      "Children": [
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"nene,sese;\",\"freeformdescription\":\"\",\"legalid\":\"99d06fda-5e9e-4b86-9667-6af1bd348709\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"0830w\",\"section\":\"1\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0420n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060420n0830w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"nene\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"sese\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "99d06fda-5e9e-4b86-9667-6af1bd348709",
+          "ResponseGeometry": "{\"rings\":[[[-106.75407641499999,43.642849750000039],[-106.75407364099999,43.639301031000059],[-106.75893796999998,43.639466312000025],[-106.75891940999998,43.643035004000069],[-106.75675670299995,43.642952330000071],[-106.75407641499999,43.642849750000039]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "NONE",
+          "Children": []
+        },
+        {
+          "ResponseType": "Success",
+          "SoeVersion": "2.2.0.2569",
+          "ResponseMessage": null,
+          "InputRequest": "{\"description\":\"nene,sese;\",\"freeformdescription\":\"\",\"legalid\":\"99d06fda-5e9e-4b86-9667-6af1bd348709\",\"legaltype\":\"plss\",\"meridian\":\"6\",\"range\":\"0830w\",\"section\":\"1\",\"state\":\"wy\",\"surveytypecode\":\"a\",\"township\":\"0420n\"}",
+          "ParsedRequest": "{\"plssid\":\"wy060420n0830w0\",\"landdescriptions\":[{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"nene\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null},{\"type\":\"section\",\"duplicate\":\"0\",\"number\":\"001\",\"description\":{\"subdivision\":\"sese\",\"surveytype\":\"a\",\"type\":\"aliquot\"},\"exception\":false,\"errormessage\":null}],\"legalkey\":\"\",\"type\":\"plss\",\"geometrytype\":\"polygon\"}",
+          "LegalId": "99d06fda-5e9e-4b86-9667-6af1bd348709",
+          "ResponseGeometry": "{\"rings\":[[[-106.75407223099995,43.632202951000068],[-106.75407359499997,43.628653591000045],[-106.75899762199998,43.628784873000029],[-106.75897706299997,43.632345733000079],[-106.75407223099995,43.632202951000068]]],\"spatialReference\":{\"wkid\":4269,\"latestWkid\":4269}}",
+          "Status": "NEW",
+          "CreationMethod": "NONE",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

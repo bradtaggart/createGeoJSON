@@ -1,6 +1,8 @@
 import {Component} from '@angular/core';
 
 import jsonData from '../b.json';
+import jobData from '../b-job.json'
+import {anySymbolName} from "@angular/core/schematics/migrations/typed-forms/util";
 
 @Component({
   selector: 'app-root',
@@ -12,52 +14,30 @@ import jsonData from '../b.json';
 export class AppComponent {
   title = 'createGeoJSON';
   data: any[] = []
+  geoJSON: any
+  jsonString: string = '';
 
 
-  runTest() {
-
-    this.getResponse(jsonData.body)
-//    this.log()
+  constructor() {
+    this.processResponse(jsonData.body)
   }
 
-  getResponse(parentnode: any[]) {
-    for (let i = 0; i < parentnode.length; i++) {
-      let inputRequestNode = JSON.parse(parentnode[i].InputRequest)
-      inputRequestNode.geometry = []
-      inputRequestNode.responseType = parentnode[i].ResponseType
-      inputRequestNode.geometry.push(this.getGeometry(parentnode[i]))
-      for (let j = 0; j<parentnode[i].Children.length; j++) {
-        inputRequestNode.geometry.push(this.getGeometry(parentnode[i].Children[j]))
-      }
-      this.data.push(inputRequestNode)
-    }
-  }
-  getGeometry(node: any) {
-      let geometry = node.ResponseGeometry
-      if (geometry === "Legal Not Found") {
-        geometry = null
-      }
-      let geometryNode = geometry !== null ? JSON.parse(geometry) : '{}'
-      return geometryNode
-  }
+  private processResponse(body: any[]) {
+    this.geoJSON = JSON.parse('{ "type": "FeatureCollection", "features": []}')
+    for (let i = 0; i < body.length; i++) {
+      let inputRequestNode = JSON.parse(body[i].InputRequest)
+      let geometry = JSON.parse(body[i].ResponseGeometry)
+      let feature = JSON.parse('{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}, "properties": {}}')
 
-  log() {
-    for (let i = 0; i < this.data.length; i++) {
-      console.log(`id: ${this.data[i].legalid} meridian: ${this.data[i].meridian} TWP: ${this.data[i].township} RGE: ${this.data[i].range}`)
-      if (this.data[i].geometry) {
-        for (let j = 0; j < this.data[i].geometry.length; j++) {
-          console.log(`geometry: ${j}`)
-          let rings: any[] = this.data[i].geometry[j].rings
-          if (rings) {
-            for (let k = 0; k < rings.length; k++) {
-              console.log(`ring: ${k}`)
-              for (let r = 0; r < rings[k].length; r++) {
-                console.log(`coord: ${rings[k][r]}`)
-              }
-            }
-          }
+      if (geometry != null && geometry != "Legal Not Found") {
+        for (let r = 0; r < geometry.rings.length; r++) {
+          feature.geometry.coordinates.push(geometry.rings[r])
         }
       }
+      feature.properties = jobData.find(record => record.legalid === inputRequestNode.legalid )
+      this.geoJSON.features.push(feature)
     }
+
+    this.jsonString = JSON.stringify(this.geoJSON, null, 2)
   }
 }
