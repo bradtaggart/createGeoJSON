@@ -24,20 +24,23 @@ export class AppComponent {
 
   private processResponse(body: any[]) {
     this.geoJSON = JSON.parse('{ "type": "FeatureCollection", "features": []}')
-    for (let i = 0; i < body.length; i++) {
-      let inputRequestNode = JSON.parse(body[i].InputRequest)
-      let geometry = JSON.parse(body[i].ResponseGeometry)
+
+    body.forEach((response) => {
+      let legalid = JSON.parse(response.InputRequest).legalid
+      let responseGeometry = JSON.parse(response.ResponseGeometry)
       let feature = JSON.parse('{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}, "properties": {}}')
 
-      if (geometry != null && geometry != "Legal Not Found") {
-        for (let r = 0; r < geometry.rings.length; r++) {
-          feature.geometry.coordinates.push(geometry.rings[r])
-        }
+      if (responseGeometry != null && responseGeometry != "Legal Not Found") {
+        responseGeometry.rings.forEach((ring: any[]) => {
+          feature.geometry.coordinates.push(ring)
+        })
+
+        feature.properties = jobData.find(record => record.legalid === legalid)
+        this.geoJSON.features.push(feature)
       }
-      feature.properties = jobData.find(record => record.legalid === inputRequestNode.legalid )
-      this.geoJSON.features.push(feature)
-    }
+    })
 
     this.jsonString = JSON.stringify(this.geoJSON, null, 2)
   }
+
 }

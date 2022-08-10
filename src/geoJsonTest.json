@@ -71,16 +71,19 @@
         ]
       },
       "properties": {
-        "description": "t 39,40",
-        "freeformdescription": "",
         "legalid": "c47e83a7-7388-4a1b-8ca9-3e0c2fa634fa",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "7",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "T 39,40",
+        "SerialNumber": "WYW    112550",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Multiple surveys with a section specified",
+        "state": "wy"
       }
     },
     {
@@ -113,16 +116,19 @@
         ]
       },
       "properties": {
-        "description": "s2 lot 8",
-        "freeformdescription": "",
         "legalid": "261cf62b-8cfb-4e02-af26-28e7b5731754",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "7",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "S2 Lot 8",
+        "SerialNumber": "WYW    066828",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Aliquot of a survey",
+        "state": "wy"
       }
     },
     {
@@ -155,16 +161,19 @@
         ]
       },
       "properties": {
-        "description": "n2 lot 9",
-        "freeformdescription": "",
         "legalid": "7804a076-b728-43b8-96b3-79416ee08fa0",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "7",
-        "state": "wy",
-        "surveytypecode": "l",
-        "township": "0140n"
+        "surveytypecode": "L",
+        "description": "N2 Lot 9",
+        "SerialNumber": "WYW    066829",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Aliquot of a survey",
+        "state": "wy"
       }
     },
     {
@@ -205,16 +214,19 @@
         ]
       },
       "properties": {
-        "description": "e2e2 lot 14,e2e2 lot 15",
-        "freeformdescription": "",
         "legalid": "37904f12-b3bb-4333-b4a8-564603186d53",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "7",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "E2E2 Lot 14,E2E2 Lot 15",
+        "SerialNumber": "WYW    131394",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Aliquot of multiple surveys",
+        "state": "wy"
       }
     },
     {
@@ -247,16 +259,19 @@
         ]
       },
       "properties": {
-        "description": "w 10 ac lot 13,16",
-        "freeformdescription": "",
         "legalid": "a719c707-9308-4177-b7e7-3dc7b107dedc",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "7",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "W 10 ac Lot 13,16",
+        "SerialNumber": "WYW    131395",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Area of a survey, survey type '1' unable to map lot 16",
+        "state": "wy"
       }
     },
     {
@@ -351,16 +366,19 @@
         ]
       },
       "properties": {
-        "description": "lots 7-14",
-        "freeformdescription": "",
         "legalid": "2ef2fc4d-f151-4975-8d05-417f2f9537d7",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "18",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "lots 7-14",
+        "SerialNumber": "WYW    131396",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Multiple surveys",
+        "state": "wy"
       }
     },
     {
@@ -401,16 +419,19 @@
         ]
       },
       "properties": {
-        "description": "e2ne",
-        "freeformdescription": "",
         "legalid": "50e80dea-0f06-4fc6-a63d-2217a33d1be4",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "18",
-        "state": "wy",
-        "surveytypecode": "a",
-        "township": "0140n"
+        "surveytypecode": "A",
+        "description": "e2ne",
+        "SerialNumber": "WYW    131397",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Standard aliquot description",
+        "state": "wy"
       }
     },
     {
@@ -443,16 +464,19 @@
         ]
       },
       "properties": {
-        "description": "e 1/3 senw",
-        "freeformdescription": "",
         "legalid": "220e6b34-4aea-4088-819c-92ab63da4d67",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "18",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "E 1/3 senw",
+        "SerialNumber": "WYW    111297",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Fraction of an aliquot",
+        "state": "wy"
       }
     },
     {
@@ -489,16 +513,19 @@
         ]
       },
       "properties": {
-        "description": "e3nw",
-        "freeformdescription": "",
         "legalid": "098a179c-dad9-42fc-b249-c594df3691f8",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "19",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "E3NW",
+        "SerialNumber": "WYW    121394",
+        "Disposition": "Pending",
+        "LegalFormatting": "Non-standard aliquot description",
+        "state": "wy"
       }
     },
     {
@@ -543,16 +570,19 @@
         ]
       },
       "properties": {
-        "description": "e2/3sw",
-        "freeformdescription": "",
         "legalid": "5902d1a7-22a7-415a-98d0-56d09243bcb8",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "19",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "E2/3SW",
+        "SerialNumber": "WYW    122394",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Non-standard aliquot description, fraction of an aliquot",
+        "state": "wy"
       }
     },
     {
@@ -649,16 +679,19 @@
         ]
       },
       "properties": {
-        "description": "tr 42 east of aspen road",
-        "freeformdescription": "",
         "legalid": "ee57324d-a9aa-4ef7-adf7-c96526bffc40",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "0",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "TR 42 east of Aspen Road",
+        "SerialNumber": "WYW    130394",
+        "Disposition": "Pending",
+        "LegalFormatting": "Entire survey regardless of section",
+        "state": "wy"
       }
     },
     {
@@ -703,16 +736,19 @@
         ]
       },
       "properties": {
-        "description": "l8 except nenenene",
-        "freeformdescription": "",
         "legalid": "25570028-4dee-4836-842d-807e60fadea6",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1030w",
+        "township": "0140N",
+        "range": "1030W",
         "section": "6",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "L8 except NENENENE",
+        "SerialNumber": "WYW    3",
+        "Disposition": "Authorized",
+        "LegalFormatting": "aliquot exception of a survey.",
+        "state": "wy"
       }
     },
     {
@@ -821,16 +857,19 @@
         ]
       },
       "properties": {
-        "description": "t 40",
-        "freeformdescription": "",
         "legalid": "41044cc2-2287-40cd-8388-700bfa71b4b1",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "0",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "t 40",
+        "SerialNumber": "WYW    176465",
+        "Disposition": "Missing Disposition field",
+        "LegalFormatting": "",
+        "state": "wy"
       }
     },
     {
@@ -883,16 +922,19 @@
         ]
       },
       "properties": {
-        "description": "nw excl w2nwnw",
-        "freeformdescription": "",
         "legalid": "dcb12fc8-bf12-442d-ac99-760d9fbfe161",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "13",
-        "state": "wy",
-        "surveytypecode": "a",
-        "township": "0140n"
+        "surveytypecode": "A",
+        "description": "NW EXCL W2NWNW",
+        "SerialNumber": "WYW    131294",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Exclusions",
+        "state": "wy"
       }
     },
     {
@@ -925,16 +967,19 @@
         ]
       },
       "properties": {
-        "description": "w 1/4 lot 2",
-        "freeformdescription": "",
         "legalid": "24be4926-7ad4-448c-a7be-d7453ca58f2f",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "13",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "W 1/4 lot 2",
+        "SerialNumber": "WYW    111298",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Fraction of a survey",
+        "state": "wy"
       }
     },
     {
@@ -983,16 +1028,19 @@
         ]
       },
       "properties": {
-        "description": "e6",
-        "freeformdescription": "",
         "legalid": "97769c65-69e4-4365-8b93-007504fc32de",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "13",
-        "state": "wy",
-        "surveytypecode": "a",
-        "township": "0140n"
+        "surveytypecode": "A",
+        "description": "E6",
+        "SerialNumber": "WYW    111299",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Fraction of a section",
+        "state": "wy"
       }
     },
     {
@@ -1045,16 +1093,19 @@
         ]
       },
       "properties": {
-        "description": "s 7.5 ch lot 4,5;",
-        "freeformdescription": "",
         "legalid": "90ee1318-37ad-4d2c-900b-5397eb787480",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "23",
-        "state": "wy",
-        "surveytypecode": "l",
-        "township": "0140n"
+        "surveytypecode": "L",
+        "description": "S 7.5 ch Lot 4,5;",
+        "SerialNumber": "WYW    111287",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Area of a survey, survey type 'L' mapped lot 5 completely",
+        "state": "wy"
       }
     },
     {
@@ -1119,16 +1170,19 @@
         ]
       },
       "properties": {
-        "description": "n 730 ft tr 44,n 730 ft tr 42;",
-        "freeformdescription": "",
         "legalid": "86a7bcc2-bf19-483f-9c59-fe1c7a4a009a",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "23",
-        "state": "wy",
-        "surveytypecode": "t",
-        "township": "0140n"
+        "surveytypecode": "T",
+        "description": "N 730 ft Tr 44,N 730 ft Tr 42;",
+        "SerialNumber": "WYW    111277",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Multiple distance of surveys",
+        "state": "wy"
       }
     },
     {
@@ -1193,16 +1247,19 @@
         ]
       },
       "properties": {
-        "description": "l 1,4,5,8",
-        "freeformdescription": "",
         "legalid": "afbee892-10ed-499f-90c0-94c8e2008beb",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "24",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "l 1,4,5,8",
+        "SerialNumber": "WYW    104980",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Multiple surveys",
+        "state": "wy"
       }
     },
     {
@@ -1243,16 +1300,19 @@
         ]
       },
       "properties": {
-        "description": "lts 6,7 south of little basin crk;",
-        "freeformdescription": "",
         "legalid": "be4147b1-a955-42f4-b92f-1a7cb7fc450d",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "24",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "LTS 6,7 SOUTH OF LITTLE BASIN CRK;",
+        "SerialNumber": "WYW    104981",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Description sent to error log",
+        "state": "wy"
       }
     },
     {
@@ -1262,16 +1322,19 @@
         "coordinates": []
       },
       "properties": {
-        "description": "green river;",
-        "freeformdescription": "",
         "legalid": "79f80645-47e3-4c7f-8e8e-873f105ec28a",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "25",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "GREEN RIVER;",
+        "SerialNumber": "WYW    177112",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Description sent to error log",
+        "state": "wy"
       }
     },
     {
@@ -1380,16 +1443,19 @@
         ]
       },
       "properties": {
-        "description": "all excl tracts 40,41;",
-        "freeformdescription": "",
         "legalid": "f3d087ec-4872-486a-bd44-1f96e52edc68",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "26",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "ALL EXCL TRACTS 40,41;",
+        "SerialNumber": "WYW    112550",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Exclusions",
+        "state": "wy"
       }
     },
     {
@@ -1554,16 +1620,19 @@
         ]
       },
       "properties": {
-        "description": "tr 37-39",
-        "freeformdescription": "",
         "legalid": "9e0b42ff-a54a-462f-99dc-8eddef4cb5d4",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "0",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "Tr 37-39",
+        "SerialNumber": "WYW    112551",
+        "Disposition": "Authorized",
+        "LegalFormatting": "Multiple entire surveys",
+        "state": "wy"
       }
     },
     {
@@ -1608,16 +1677,19 @@
         ]
       },
       "properties": {
-        "description": "l5 except senene",
-        "freeformdescription": "",
         "legalid": "8e830aa1-c2d1-4750-9b69-f929261b00a0",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "6",
-        "range": "1040w",
+        "township": "0140N",
+        "range": "1040W",
         "section": "1",
-        "state": "wy",
         "surveytypecode": "1",
-        "township": "0140n"
+        "description": "L5 except SENENE",
+        "SerialNumber": "WYW    2",
+        "Disposition": "Authorized",
+        "LegalFormatting": "aliquot exception of a survey.",
+        "state": "wy"
       }
     },
     {
@@ -1627,16 +1699,19 @@
         "coordinates": []
       },
       "properties": {
-        "description": "",
-        "freeformdescription": "",
         "legalid": "23c37b6e-0468-41e4-8c44-ac8c4c3d8e91",
+        "legaldescriptiontypeid": "1",
         "legaltype": "plss",
         "meridian": "end",
+        "township": "",
         "range": "",
         "section": "",
-        "state": "wy",
         "surveytypecode": "",
-        "township": ""
+        "description": "",
+        "SerialNumber": "",
+        "Disposition": "",
+        "LegalFormatting": "",
+        "state": "wy"
       }
     }
   ]
